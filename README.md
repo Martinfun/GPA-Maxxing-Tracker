@@ -3,6 +3,8 @@
 A Python tool that tracks module grades and calculates a
 weighted CGPA based on the Singapore Polytechnic grading system.
 
+This project was developed over the course of one week as a personal exercise to apply Python fundamentals, particularly in file handling, data structures, and algorithmic problem solving, to a practical real-world inspired use case.
+
 # Features
 
 - Add modules with name, Credit Units (CU), and percentage scored 
