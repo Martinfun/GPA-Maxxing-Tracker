@@ -121,7 +121,7 @@ def menu():
     data = load_data()
 
     while True:
-        print("--- SP GPAMAXXING TRACKER ---")
+        print("--- GPAMAXXING TRACKER ---")
         show_modules(data)
         print("1. Add module")
         print("2. Edit module")
