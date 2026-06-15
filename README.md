@@ -36,11 +36,12 @@ point table:
 # Running it
 
 The program should be placed in a single folder:
-
+```
 GPA-Tracker/
- ├── main.py
- ├── grades.csv (auto-created after first run)
- └── README.md
+├── main.py
+├── grades.csv (auto-created after first run)
+└── README.md
+```
 
 grades.csv is automatically created in the same directory as main.py when the program is first run. It stores all module data and allows the information to persist between sessions.
 
